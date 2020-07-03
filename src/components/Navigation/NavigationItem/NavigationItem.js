@@ -1,5 +1,5 @@
 import React from 'react';
-import NavigationItems from '../NavigationItems/NavigationItems';
+
 import classes from './NavigationItem.css';
 
 const navigationItem = (props)=>(
